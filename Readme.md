@@ -1,0 +1,1 @@
+Clone this image and replace app.go with your go file or alternatively you can place 
